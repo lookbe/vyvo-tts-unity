@@ -1,0 +1,20 @@
+{
+    "name": "ai.lookbe.vyvotts",
+    "version": "0.0.1",
+    "displayName": "Vyvo TTS Unity",
+    "description": "Vyvo TTS for Unity",
+    "unity": "2021.3",
+    "keywords": [
+        "tts",
+        "ai"
+    ],
+    "author": {
+        "name": "lookbe"
+    },
+	"samples": [
+    {
+	  "displayName": "Basic Vyvo",
+	  "description": "Shows the basic Vyvo TTS usage.",
+	  "path": "Samples~/BasicVyvo"
+    }]
+}
